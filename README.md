@@ -21,7 +21,7 @@ Unity 2021.3.18 + URP 2D
 
 **Примечание:**
 - apk файл для установки находится в разделе "Releases"
-https://github.com/Sem1th/arcanoid2d/releases/tag/v1.0
+https://github.com/Sem1th/arkanoid2d/releases/tag/v1.0
 
 ---
 
